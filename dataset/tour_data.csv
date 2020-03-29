@@ -1,5 +1,5 @@
-﻿tourId,lengthDist,lengthTime
-1,5,20
-2,15,45
-3,10,60
-4,25,90
+﻿tourId,lengthDist,lengthTime,genre
+1,5,20,religion
+2,15,45,nature
+3,10,60,religion
+4,25,90,sports
